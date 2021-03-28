@@ -1,0 +1,4 @@
+- 👋 Hi folks, I’m @FireHawken. My hobby is making smart devices from scratch.
+- 👀 I’m interested in robotics and embedded software.
+- 🌱 I’m currently learning Rust and mastering Python skills.
+- 💞️ I’m looking to collaborate on porting natice C++ libraries to Micropython. Would appreciate your part in any of shared project I currently working on.
